@@ -1,5 +1,12 @@
-print("this costs " + str(5 + 1) + " dollars")
-
-print("Hello, my name is " + "Hello:Nick:World".split(":")[1])
 
 
+check = "Hamburger"
+
+if check == False:
+    print("it is false")
+elif check == "Hamburger":
+    print("Yummmm, hamburgers")
+elif check == "yo":
+    print("Hello")
+else:
+    print("it is actually true")
