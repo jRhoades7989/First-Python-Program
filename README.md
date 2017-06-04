@@ -1,4 +1,4 @@
-#Basic Calculator in Python
+# Basic Calculator in Python
 
 This is nothing fancy, just a calculator.
 You can do all the basic functions. It will store the outcome for aditional processes, or you can clear the result.
